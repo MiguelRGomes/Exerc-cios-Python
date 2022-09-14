@@ -16,10 +16,3 @@ print('O maior número é: ',maior)
 
 
 
-
-
-if cont > 0:
-    media = soma/cont
-print('A média das notas dos alunos é: ',media)
-
-
